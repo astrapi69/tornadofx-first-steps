@@ -1,3 +1,5 @@
+package io.github.astrapi69
+
 import tornadofx.View
 import tornadofx.hbox
 import tornadofx.label

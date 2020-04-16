@@ -1,3 +1,5 @@
+package io.github.astrapi69
+
 import javafx.scene.text.FontWeight
 import tornadofx.*
 
