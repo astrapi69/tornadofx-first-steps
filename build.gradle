@@ -23,7 +23,7 @@ dependencies {
 
 fxlauncher {
     applicationVendor "astrapi69"
-    applicationUrl "https://github.com/astrapi69/tornadofx-first-steps"
+    applicationUrl "https://github.com/astrapi69/tornadofx-first-steps/blob/master"
     applicationMainClass "io.github.astrapi69.HelloWorldApp"
     deployTarget 'asterios.raptis@web.de:/var/www/downloads/assets'
 }
